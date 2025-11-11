@@ -166,3 +166,7 @@ class L432KC():
     
     def newfunc():
         pass
+
+
+    def newfunc2():
+        pass
