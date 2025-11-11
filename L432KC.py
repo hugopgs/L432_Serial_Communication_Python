@@ -161,3 +161,8 @@ class L432KC():
         if self.verbose == True:
             logger.info(f"d: {msg_ret}")
         pass
+    
+    
+    
+    def newfunc():
+        pass
